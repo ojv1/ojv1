@@ -1,6 +1,6 @@
-## Olá! Eu sou o João Vitor🖐️
+## Olá! Eu sou o João Vitor🖐️ / Hello! I'm João Vitor 🖐️
 
-### Tecnologias que eu uso no meu dia a dia
+### Tecnologias que eu uso no meu dia a dia / Technologies I use in my daily life:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -10,4 +10,4 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-💻Desenvolvedor web
+💻Desenvolvedor web / 💻 Web Developer

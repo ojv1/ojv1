@@ -1,6 +1,6 @@
-## Olá! Eu sou o João Vitor🖐️ / Hello! I'm João Vitor 🖐️
+## Olá! Sou João🖐️ / Hello! I'm João🖐️
 
-### Tecnologias que eu uso no meu dia a dia / Technologies I use in my daily life:
+### Tecnologias do dia a dia / Daily Life Technologies:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
